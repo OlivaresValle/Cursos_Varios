@@ -1,0 +1,1 @@
+alert('Hola Mundo') // para levantar una alerta en el navegador
