@@ -22,7 +22,6 @@ class User{
 }
 
 const nuevoproto = Object.assign({},Entidad,Actualizar);
-
 Object.setPrototypeOf(User.prototype,Entidad);
 
 const u = new User('Chanchito feliz');
